@@ -8,3 +8,8 @@ setup(
     packages     = find_packages(),
     entry_points = {'scrapy': ['settings = quotes_spider.settings']},
 )
+
+
+class A:
+    def m(self):
+        return 1+2
