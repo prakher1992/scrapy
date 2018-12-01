@@ -1,3 +1,4 @@
 scrapy.cfg
 *.csv
 *.pyc
+.idea/workspace.xml
